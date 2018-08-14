@@ -11,6 +11,7 @@ namespace playerHighscore
         static void Main(string[] args)
         {
             Console.WriteLine("Exemplo de uso do GitHub.");
+            Console.WriteLine("It Works!");
             Console.Read();
         }
     }
