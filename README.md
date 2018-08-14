@@ -1,2 +1,2 @@
-# Visual-Studio-2017
-Teste de utilização do plugin do GitHub para o Visual Studio 2017.
+# highScore.cs
+This is part of Complete C# Masterclass course;
